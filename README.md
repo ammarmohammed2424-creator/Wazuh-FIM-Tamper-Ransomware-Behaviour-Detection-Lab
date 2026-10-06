@@ -1,4 +1,4 @@
-# Wazuh-FIM-Tamper-Ransomware-Behaviour-Detection-Lab
+# Wazuh-FIM-Tamper-Detection-Lab
 Real-time file integrity monitoring (FIM) on a Windows endpoint using Wazuh 4.7.5, with who-data attribution, before/after content diffs, and custom detection rules mapped to MITRE ATT&amp;CK.
 
 <img width="856" height="104" alt="Screenshot 2026-10-06 112445" src="https://github.com/user-attachments/assets/638ab278-9a72-432f-8a42-d6d2845e7c98" />
